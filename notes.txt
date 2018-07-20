@@ -1,0 +1,60 @@
+GA - speech to text knowldge graph and ML ranking ad user profile
+dialogue flow does the ML part automatically - intention 
+knowledge graph
+firebase functions and friebase db work in cohession
+trigger welcome event
+text to speech and vice versa is done by google assistant
+is dialogue flow always attached to GA
+why is it 
+
+design develop and deploy
+Design 
+1 create a persona - way in which the app will perform, tone, interactivity, 
+2. drafting a conversation - not just work but specific and not roam around here, flow diagram
+3. understand context - intention and
+4. speech errors - 
+
+Develop
+1 create a dialogue flow - all ML and NLP 
+2 Define entities and intents
+3 Define user prases - he migth say , parts o statements
+4 define actions and responses
+5 connect webhook -code lives in cloud funtion 
+
+Deploy
+1 register you action - 
+2 test your action - web simulator and mobile phones
+3 review publishing checklist
+4 publish your action
+
+GUI!=VUI
+
+Design - SSML
+develop - Dialogue flow agent name 
+intent
+parameters
+entities
+fulfillment - webhook - post request enabled
+
+npm install firebase-tools
+firebase login
+firebase init functions
+npm install actions-on-google
+firebase deploy	
+actions on google marketplace - https://assistant.google.com/explore/
+
+codelab
+twitter and actions on google
+bit.ly/ideaonaog
+
+ideas -
+intergrating questions in proximus app
+
+agriculture
+ecommerce
+education - coding bot trainer
+fintech - 
+healthcare - emergency services, 
+entertainment - latest 
+anything - technological predictions
+
